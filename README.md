@@ -1,0 +1,2 @@
+# .github
+Supabase Community
