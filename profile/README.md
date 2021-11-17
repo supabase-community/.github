@@ -2,25 +2,22 @@
 
 Unnofficial Supabase libraries, examples, and repositories.
 
-
 ## Libraries
-
 
 - C#: [supabase-csharp](https://github.com/supabase-community/supabase-csharp)
   - [gotrue-csharp](https://github.com/supabase-community/gotrue-csharp)
   - [realtime-csharp](https://github.com/supabase-community/realtime-csharp)
-- Kotlin
-  - [postgrest-kt](https://github.com/supabase-community/postgrest-kt)
 - Go:
-  - [gotrue-kt](https://github.com/supabase-community/gotrue-kt)
   - [postgrest-go](https://github.com/supabase-community/postgrest-go)
 - Java:
   - [gotrue-java](https://github.com/supabase-community/gotrue-java)
+- Kotlin
+  - [gotrue-kt](https://github.com/supabase-community/gotrue-kt)
+  - [postgrest-kt](https://github.com/supabase-community/postgrest-kt)
 - Python: [supabase-py](https://github.com/supabase-community/supabase-py)
   - [gotrue-py](https://github.com/supabase-community/gotrue-py)
   - [postgrest-py](https://github.com/supabase-community/postgrest-py)
   - [realtime-py](https://github.com/supabase-community/realtime-py)
-  - Maintainers: https://github.com/orgs/supabase-community/teams/python-maintainers/members
 - Ruby: [supabase-rb](https://github.com/supabase-community/supabase-rb)
   - [postgrest-rb](https://github.com/supabase-community/postgrest-rb)
 - Rust:
@@ -30,7 +27,6 @@ Unnofficial Supabase libraries, examples, and repositories.
   - [postgrest-swift](https://github.com/supabase-community/postgrest-swift)
   - [realtime-swift](https://github.com/supabase-community/realtime-swift)
   - [storage-swift](https://github.com/supabase-community/storage-swift)
-
 
 ## Self-Hosting
 
@@ -47,5 +43,3 @@ Unnofficial Supabase libraries, examples, and repositories.
 - Vue + Nuxt
   - [nuxt-supabase](https://github.com/supabase-community/nuxt-supabase)
   - [vue-supabase](https://github.com/supabase-community/vue-supabase)
-
-
