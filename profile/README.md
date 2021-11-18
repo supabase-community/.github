@@ -5,7 +5,7 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
 
 ## Client Libraries
 
-<table>
+<table style="table-layout:fixed; white-space: nowrap;">
   <tr>
     <th>Language</th>
     <th>Client</th>
