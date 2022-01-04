@@ -126,6 +126,11 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
   - [supabase-flutter-quickstart](https://github.com/supabase-community/supabase-flutter-quickstart)
 - React + Next
   - [next-server-components](https://github.com/supabase-community/next-server-components)
+- Svelte
+  - [svelte-supabase](https://github.com/supabase-community/svelte-supabase)
+  - [supabase-ui-svelte](https://github.com/supabase-community/supabase-ui-svelte)
+  - [supabase-sveltekit-example](https://github.com/supabase-community/supabase-sveltekit-example)
+  - [svelte-kanban](https://github.com/supabase-community/svelte-kanban)
 - Vue + Nuxt
   - [nuxt-supabase](https://github.com/supabase-community/nuxt-supabase)
   - [vue-supabase](https://github.com/supabase-community/vue-supabase)
