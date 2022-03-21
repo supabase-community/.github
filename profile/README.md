@@ -119,6 +119,8 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
 
 ## Self-Hosting
 
+- [supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)
+- [supabase-terraform](https://github.com/supabase-community/supabase-terraform)
 - [supabase-traefik](https://github.com/supabase-community/supabase-traefik)
 
 ## Utilities
