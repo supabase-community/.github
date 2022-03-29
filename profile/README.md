@@ -117,6 +117,16 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
   </tr>
 </table>
 
+## Supabase Auth Helpers
+
+A collection of framework specific Auth utilities for working with Supabase.
+
+- [Next.js](./src/nextjs/README.md)
+- [Nuxt - via @nuxtjs/supabase](https://supabase.nuxtjs.org/)
+- [Remix](https://github.com/supabase-community/supabase-auth-helpers/issues/57)(coming soon)
+- [SvelteKit](https://github.com/supabase-community/supabase-auth-helpers/issues/54)(coming soon)
+
+
 ## Self-Hosting
 
 - [supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)
