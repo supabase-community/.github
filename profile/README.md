@@ -2,7 +2,6 @@
 
 Unnofficial Supabase libraries, examples, and repositories by the community for the community 💚
 
-
 ## Client Libraries
 
 <table style="table-layout:fixed; white-space: nowrap;">
@@ -133,11 +132,10 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
 
 A collection of framework specific Auth utilities for working with Supabase.
 
-- [Next.js](https://github.com/supabase-community/supabase-auth-helpers/blob/next/src/nextjs/README.md)
+- [Next.js](https://github.com/supabase/auth-helpers/blob/main/packages/nextjs/README.md)
 - [Nuxt - via @nuxtjs/supabase](https://supabase.nuxtjs.org/)
+- [SvelteKit](https://github.com/supabase/auth-helpers/blob/main/packages/sveltekit/README.md)
 - [Remix](https://github.com/supabase-community/supabase-auth-helpers/issues/57) (coming soon)
-- [SvelteKit](https://github.com/supabase-community/supabase-auth-helpers/issues/54) (coming soon)
-
 
 ## Self-Hosting
 
@@ -147,7 +145,7 @@ A collection of framework specific Auth utilities for working with Supabase.
 
 ## Utilities
 
-- General 
+- General
   - [database.dev](https://github.com/supabase-community/database.dev): Curated list of SQL to help you find useful script easily
 - Dart + Flutter
   - [supabase-flutter-quickstart](https://github.com/supabase-community/supabase-flutter-quickstart)
@@ -161,5 +159,3 @@ A collection of framework specific Auth utilities for working with Supabase.
 - Vue + Nuxt
   - [nuxt-supabase](https://github.com/supabase-community/nuxt-supabase)
   - [vue-supabase](https://github.com/supabase-community/vue-supabase)
-
-
