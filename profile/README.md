@@ -151,6 +151,7 @@ A collection of framework specific Auth utilities for working with Supabase.
 - [supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)
 - [supabase-terraform](https://github.com/supabase-community/supabase-terraform)
 - [supabase-traefik](https://github.com/supabase-community/supabase-traefik)
+- [supabase-on-aws](https://github.com/supabase-community/supabase-on-aws) (CDK/CloudFormation Template)
 
 ## Utilities
 
