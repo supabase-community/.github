@@ -41,6 +41,17 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase/storage-js" target="_blank" rel="noopener noreferrer">storage-js</a></td>
     <td><a href="https://github.com/supabase/functions-js" target="_blank" rel="noopener noreferrer">functions-js</a></td>
   </tr>
+  <tr>
+    <td>Flutter</td>
+    <td>
+      <a href="https://github.com/supabase-community/supabase-flutter" target="_blank" rel="noopener noreferrer">supabase-flutter</a><br />
+    </td>
+    <td><a href="https://github.com/supabase-community/postgrest-dart" target="_blank" rel="noopener noreferrer">postgrest-dart</a></td>
+    <td><a href="https://github.com/supabase-community/gotrue-dart" target="_blank" rel="noopener noreferrer">gotrue-dart</a></td>
+    <td><a href="https://github.com/supabase-community/realtime-dart" target="_blank" rel="noopener noreferrer">realtime-dart</a></td>
+    <td><a href="https://github.com/supabase-community/storage-dart" target="_blank" rel="noopener noreferrer">storage-dart</a></td>
+    <td><a href="https://github.com/supabase-community/functions-dart" target="_blank" rel="noopener noreferrer">functions-dart</a></td>
+  </tr>
   <th colspan="7">💚 Community 💚</th>
   <tr>
     <td>C#</td>
@@ -50,18 +61,6 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase-community/realtime-csharp" target="_blank" rel="noopener noreferrer">realtime-csharp</a></td>
     <td><a href="https://github.com/supabase-community/storage-csharp" target="_blank" rel="noopener noreferrer">storage-csharp</a></td>
     <td><a href="https://github.com/supabase-community/functions-csharp" target="_blank" rel="noopener noreferrer">functions-csharp</a></td>
-  </tr>
-  <tr>
-    <td>Dart (Flutter)</td>
-    <td>
-      <a href="https://github.com/supabase-community/supabase-flutter" target="_blank" rel="noopener noreferrer">supabase-flutter</a><br />
-      <a href="https://github.com/supabase-community/supabase-dart" target="_blank" rel="noopener noreferrer">supabase-dart</a>
-    </td>
-    <td><a href="https://github.com/supabase-community/postgrest-dart" target="_blank" rel="noopener noreferrer">postgrest-dart</a></td>
-    <td><a href="https://github.com/supabase-community/gotrue-dart" target="_blank" rel="noopener noreferrer">gotrue-dart</a></td>
-    <td><a href="https://github.com/supabase-community/realtime-dart" target="_blank" rel="noopener noreferrer">realtime-dart</a></td>
-    <td><a href="https://github.com/supabase-community/storage-dart" target="_blank" rel="noopener noreferrer">storage-dart</a></td>
-    <td><a href="https://github.com/supabase-community/functions-dart" target="_blank" rel="noopener noreferrer">functions-dart</a></td>
   </tr>
   <tr>
     <td>Go</td>
