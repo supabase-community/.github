@@ -77,7 +77,7 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td>-</td>
     <td><a href="https://github.com/supabase-community/gotrue-java" target="_blank" rel="noopener noreferrer">gotrue-java</a></td>
     <td>-</td>
-    <td>-</td>
+    <td><a href="https://github.com/supabase-community/storage-java" target="_blank" rel="noopener noreferrer">storage-java</a></td>
     <td>-</td>
   </tr>
   <tr>
