@@ -90,6 +90,15 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase-community/supabase-kt/tree/master/Functions" target="_blank" rel="noopener noreferrer">functions-kt</a></td>
   </tr>
   <tr>
+    <td>PHP</td>
+    <td><a href="https://github.com/supabase-community/supabase-php" target="_blank" rel="noopener noreferrer">supabase-php</a></td>
+    <td><a href="https://github.com/supabase-community/postgrest-php" target="_blank" rel="noopener noreferrer">postgrest-php</a></td>
+    <td><a href="https://github.com/supabase-community/gotrue-php" target="_blank" rel="noopener noreferrer">gotrue-php</a></td>
+    <td><a href="https://github.com/supabase-community/realtime-php" target="_blank" rel="noopener noreferrer">realtime-php</a></td>
+    <td><a href="https://github.com/supabase-community/storage-php" target="_blank" rel="noopener noreferrer">storage-php</a></td>
+    <td><a href="https://github.com/supabase-community/functions-php" target="_blank" rel="noopener noreferrer">functions-php</a></td>
+  </tr>
+  <tr>
     <td>Python</td>
     <td><a href="https://github.com/supabase-community/supabase-py" target="_blank" rel="noopener noreferrer">supabase-py</a></td>
     <td><a href="https://github.com/supabase-community/postgrest-py" target="_blank" rel="noopener noreferrer">postgrest-py</a></td>
