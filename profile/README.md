@@ -143,7 +143,7 @@ A collection of framework specific Auth utilities for working with Supabase.
 - [Next.js](https://github.com/supabase/auth-helpers/blob/main/packages/nextjs/README.md)
 - [Nuxt - via @nuxtjs/supabase](https://supabase.nuxtjs.org/)
 - [SvelteKit](https://github.com/supabase/auth-helpers/blob/main/packages/sveltekit/README.md)
-- [Remix](https://github.com/supabase-community/supabase-auth-helpers/issues/57) (coming soon)
+- [Remix](https://github.com/supabase/auth-helpers/tree/main/packages/remix)
 
 ## Self-Hosting
 
