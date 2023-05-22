@@ -44,13 +44,13 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
   <tr>
     <td>Flutter</td>
     <td>
-      <a href="https://github.com/supabase-community/supabase-flutter" target="_blank" rel="noopener noreferrer">supabase-flutter</a><br />
+      <a href="https://github.com/supabase/supabase-flutter/tree/main/packages/supabase_flutter" target="_blank" rel="noopener noreferrer">supabase-flutter</a><br />
     </td>
-    <td><a href="https://github.com/supabase-community/postgrest-dart" target="_blank" rel="noopener noreferrer">postgrest-dart</a></td>
-    <td><a href="https://github.com/supabase-community/gotrue-dart" target="_blank" rel="noopener noreferrer">gotrue-dart</a></td>
-    <td><a href="https://github.com/supabase-community/realtime-dart" target="_blank" rel="noopener noreferrer">realtime-dart</a></td>
-    <td><a href="https://github.com/supabase-community/storage-dart" target="_blank" rel="noopener noreferrer">storage-dart</a></td>
-    <td><a href="https://github.com/supabase-community/functions-dart" target="_blank" rel="noopener noreferrer">functions-dart</a></td>
+    <td><a href="https://github.com/supabase/supabase-flutter/tree/main/packages/postgrest" target="_blank" rel="noopener noreferrer">postgrest-dart</a></td>
+    <td><a href="https://github.com/supabase/supabase-flutter/tree/main/packages/gotrue" target="_blank" rel="noopener noreferrer">gotrue-dart</a></td>
+    <td><a href="https://github.com/supabase/supabase-flutter/tree/main/packages/realtime_client" target="_blank" rel="noopener noreferrer">realtime-dart</a></td>
+    <td><a href="https://github.com/supabase/supabase-flutter/tree/main/packages/storage_client" target="_blank" rel="noopener noreferrer">storage-dart</a></td>
+    <td><a href="https://github.com/supabase/supabase-flutter/tree/main/packages/functions_client" target="_blank" rel="noopener noreferrer">functions-dart</a></td>
   </tr>
   <th colspan="7">💚 Community 💚</th>
   <tr>
