@@ -164,7 +164,7 @@ A collection of framework specific Auth utilities for working with Supabase.
 ## Utilities
 
 - General
-  - [database.dev](https://github.com/supabase-community/database.dev): Curated list of SQL to help you find useful script easily
+  - [sql-examples](https://github.com/supabase-community/sql-examples): Curated list of SQL to help you find useful script easily
 - Dart + Flutter
   - [supabase-flutter-quickstart](https://github.com/supabase-community/supabase-flutter-quickstart)
 - React + Next
