@@ -63,6 +63,15 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase-community/functions-csharp" target="_blank" rel="noopener noreferrer">functions-csharp</a></td>
   </tr>
   <tr>
+    <td>F#</td>
+    <td><a href="https://github.com/supabase-community/supabase-fsharp" target="_blank" rel="noopener noreferrer">supabase-fsharp</a></td>
+    <td><a href="https://github.com/supabase-community/postgrest-fsharp" target="_blank" rel="noopener noreferrer">postgrest-fsharp</a></td>
+    <td><a href="https://github.com/supabase-community/gotrue-fsharp" target="_blank" rel="noopener noreferrer">gotrue-fsharp</a></td>
+    <td>-</td>
+    <td><a href="https://github.com/supabase-community/storage-fsharp" target="_blank" rel="noopener noreferrer">storage-fsharp</a></td>
+    <td><a href="https://github.com/supabase-community/functions-fsharp" target="_blank" rel="noopener noreferrer">functions-fsharp</a></td>
+  </tr>
+  <tr>
     <td>Go</td>
     <td>-</td>
     <td><a href="https://github.com/supabase-community/postgrest-go" target="_blank" rel="noopener noreferrer">postgrest-go</a></td>
