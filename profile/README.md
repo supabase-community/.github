@@ -17,7 +17,7 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <th><a href="https://github.com/supabase/gotrue" target="_blank" rel="noopener noreferrer">GoTrue</a></th>
     <th><a href="https://github.com/supabase/realtime" target="_blank" rel="noopener noreferrer">Realtime</a></th>
     <th><a href="https://github.com/supabase/storage-api" target="_blank" rel="noopener noreferrer">Storage</a></th>
-    <th><a href="https://github.com/supabase/edge-functions" target="_blank" rel="noopener noreferrer">Edge Functions</a></th>
+    <th><a href="https://github.com/supabase/edge-runtime" target="_blank" rel="noopener noreferrer">Edge Runtime (Edge Functions)</a></th>
   </tr>
   <!-- TEMPLATE FOR NEW ROW -->
   <!-- START ROW
