@@ -52,6 +52,15 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase/supabase-flutter/tree/main/packages/storage_client" target="_blank" rel="noopener noreferrer">storage-dart</a></td>
     <td><a href="https://github.com/supabase/supabase-flutter/tree/main/packages/functions_client" target="_blank" rel="noopener noreferrer">functions-dart</a></td>
   </tr>
+  <tr>
+    <td>Swift</td>
+    <td><a href="https://github.com/supabase/supabase-swift" target="_blank" rel="noopener noreferrer">supabase-swift</a></td>
+    <td><a href="https://github.com/supabase/supabase-swift/tree/main/Sources/PostgREST" target="_blank" rel="noopener noreferrer">postgrest-swift</a></td>
+    <td><a href="https://github.com/supabase/supabase-swift/tree/main/Sources/Auth" target="_blank" rel="noopener noreferrer">auth-swift</a></td>
+    <td><a href="https://github.com/supabase/supabase-swift/tree/main/Sources/Realtime" target="_blank" rel="noopener noreferrer">realtime-swift</a></td>
+    <td><a href="https://github.com/supabase/supabase-swift/tree/main/Sources/Storage" target="_blank" rel="noopener noreferrer">storage-swift</a></td>
+    <td><a href="https://github.com/supabase/supabase-swift/tree/main/Sources/Functions" target="_blank" rel="noopener noreferrer">functions-swift</a></td>
+  </tr>
   <th colspan="7">💚 Community 💚</th>
   <tr>
     <td>C#</td>
@@ -133,15 +142,6 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td>-</td>
     <td>-</td>
     <td>-</td>
-  </tr>
-  <tr>
-    <td>Swift</td>
-    <td><a href="https://github.com/supabase-community/supabase-swift" target="_blank" rel="noopener noreferrer">supabase-swift</a></td>
-    <td><a href="https://github.com/supabase-community/supabase-swift/tree/main/Sources/PostgREST" target="_blank" rel="noopener noreferrer">postgrest-swift</a></td>
-    <td><a href="https://github.com/supabase-community/supabase-swift/tree/main/Sources/Auth" target="_blank" rel="noopener noreferrer">auth-swift</a></td>
-    <td><a href="https://github.com/supabase-community/supabase-swift/tree/main/Sources/Realtime" target="_blank" rel="noopener noreferrer">realtime-swift</a></td>
-    <td><a href="https://github.com/supabase-community/supabase-swift/tree/main/Sources/Storage" target="_blank" rel="noopener noreferrer">storage-swift</a></td>
-    <td><a href="https://github.com/supabase-community/supabase-swift/tree/main/Sources/Functions" target="_blank" rel="noopener noreferrer">functions-swift</a></td>
   </tr>
   <tr>
     <td>Godot Engine (GDScript)</td>
