@@ -61,6 +61,15 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase/supabase-swift/tree/main/Sources/Storage" target="_blank" rel="noopener noreferrer">storage-swift</a></td>
     <td><a href="https://github.com/supabase/supabase-swift/tree/main/Sources/Functions" target="_blank" rel="noopener noreferrer">functions-swift</a></td>
   </tr>
+  <tr>
+    <td>Python</td>
+    <td><a href="https://github.com/supabase/supabase-py" target="_blank" rel="noopener noreferrer">supabase-py</a></td>
+    <td><a href="https://github.com/supabase/postgrest-py" target="_blank" rel="noopener noreferrer">postgrest-py</a></td>
+    <td><a href="https://github.com/supabase/auth-py" target="_blank" rel="noopener noreferrer">auth-py</a></td>
+    <td><a href="https://github.com/supabase/realtime-py" target="_blank" rel="noopener noreferrer">realtime-py</a></td>
+    <td><a href="https://github.com/supabase/storage-py" target="_blank" rel="noopener noreferrer">storage-py</a></td>
+    <td><a href="https://github.com/supabase/functions-py" target="_blank" rel="noopener noreferrer">functions-py</a></td>
+  </tr>
   <th colspan="7">💚 Community 💚</th>
   <tr>
     <td>C#</td>
@@ -115,15 +124,6 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase-community/realtime-php" target="_blank" rel="noopener noreferrer">realtime-php</a></td>
     <td><a href="https://github.com/supabase-community/storage-php" target="_blank" rel="noopener noreferrer">storage-php</a></td>
     <td><a href="https://github.com/supabase-community/functions-php" target="_blank" rel="noopener noreferrer">functions-php</a></td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td><a href="https://github.com/supabase-community/supabase-py" target="_blank" rel="noopener noreferrer">supabase-py</a></td>
-    <td><a href="https://github.com/supabase-community/postgrest-py" target="_blank" rel="noopener noreferrer">postgrest-py</a></td>
-    <td><a href="https://github.com/supabase-community/auth-py" target="_blank" rel="noopener noreferrer">auth-py</a></td>
-    <td><a href="https://github.com/supabase-community/realtime-py" target="_blank" rel="noopener noreferrer">realtime-py</a></td>
-    <td><a href="https://github.com/supabase-community/storage-py" target="_blank" rel="noopener noreferrer">storage-py</a></td>
-    <td><a href="https://github.com/supabase-community/functions-py" target="_blank" rel="noopener noreferrer">functions-py</a></td>
   </tr>
   <tr>
     <td>Ruby</td>
