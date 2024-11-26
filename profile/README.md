@@ -99,6 +99,15 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase-community/functions-go" target="_blank" rel="noopener noreferrer">functions-go</a</td>
   </tr>
   <tr>
+    <td>Elixir</td>
+    <td><a href="https://github.com/supabase-community/supabase-ex" target="_blank" rel="noopener noreferrer">supabase-ex</a></td>
+    <td><a href="https://github.com/supabase-community/postgrest-ex" target="_blank" rel="noopener noreferrer">postgrest-ex</a></td>
+    <td><a href="https://github.com/supabase-community/auth-ex" target="_blank" rel="noopener noreferrer">auth-ex</a></td>
+    <td>-</td>
+    <td><a href="https://github.com/supabase-community/storage-ex" target="_blank" rel="noopener noreferrer">storage-ex</a></td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>Java</td>
     <td>-</td>
     <td>-</td>
