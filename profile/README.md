@@ -103,9 +103,9 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase-community/supabase-ex" target="_blank" rel="noopener noreferrer">supabase-ex</a></td>
     <td><a href="https://github.com/supabase-community/postgrest-ex" target="_blank" rel="noopener noreferrer">postgrest-ex</a></td>
     <td><a href="https://github.com/supabase-community/auth-ex" target="_blank" rel="noopener noreferrer">auth-ex</a></td>
-    <td>-</td>
+    <td><a href="https://github.com/supabase-community/realtime-ex" target="_blank" rel="noopener noreferrer">realtime-ex</a></td>
     <td><a href="https://github.com/supabase-community/storage-ex" target="_blank" rel="noopener noreferrer">storage-ex</a></td>
-    <td>-</td>
+    <td><a href="https://github.com/supabase-community/functions-ex" target="_blank" rel="noopener noreferrer">functions-ex</a></td>
   </tr>
   <tr>
     <td>Java</td>
