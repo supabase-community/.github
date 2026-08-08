@@ -1,0 +1,66 @@
+# ══════════════════════════════════════════════════════════════════════════════
+# IRONSHELL CORE ENGINE - PYTHON DEPENDENCIES
+# ══════════════════════════════════════════════════════════════════════════════
+#
+# IRON SHELL PRINCIPLE: Use free/open-source tools to minimize costs
+# while maintaining production-quality capabilities.
+#
+# ══════════════════════════════════════════════════════════════════════════════
+
+# ─────────────────────────────────────────────────────────────────────────────
+# CORE FRAMEWORK
+# ─────────────────────────────────────────────────────────────────────────────
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# ─────────────────────────────────────────────────────────────────────────────
+# DATABASE & STORAGE
+# ─────────────────────────────────────────────────────────────────────────────
+# Supabase client (Free tier - your production database)
+supabase>=2.0.0
+
+# ChromaDB (Local vector store - the Data Flywheel)
+# This is where user corrections are stored for RAG
+chromadb>=0.4.18
+
+# ─────────────────────────────────────────────────────────────────────────────
+# AI & ML
+# ─────────────────────────────────────────────────────────────────────────────
+# Sentence transformers for local embeddings (free, no API costs)
+sentence-transformers>=2.2.2
+
+# HTTP client for AI API calls
+httpx>=0.25.0
+
+# ─────────────────────────────────────────────────────────────────────────────
+# DATA PROCESSING (Moment of Truth - File Ingestion)
+# ─────────────────────────────────────────────────────────────────────────────
+pandas>=2.1.0
+openpyxl>=3.1.0  # For Excel files
+xlrd>=2.0.1      # For legacy Excel files
+
+# PDF parsing (optional - install separately if needed)
+# tabula-py>=2.8.0  # Requires Java runtime
+
+# ─────────────────────────────────────────────────────────────────────────────
+# SECURITY & AUTH
+# ─────────────────────────────────────────────────────────────────────────────
+python-jose[cryptography]>=3.3.0  # JWT handling
+passlib[bcrypt]>=1.7.4
+
+# ─────────────────────────────────────────────────────────────────────────────
+# UTILITIES
+# ─────────────────────────────────────────────────────────────────────────────
+python-multipart>=0.0.6  # File uploads
+python-dotenv>=1.0.0
+
+# ─────────────────────────────────────────────────────────────────────────────
+# DEVELOPMENT
+# ─────────────────────────────────────────────────────────────────────────────
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.10.0
+isort>=5.12.0
+mypy>=1.6.0
