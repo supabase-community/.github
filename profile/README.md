@@ -186,3 +186,9 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
 - Vue + Nuxt
   - [nuxt-supabase](https://github.com/supabase-community/nuxt-supabase)
   - [vue-supabase](https://github.com/supabase-community/vue-supabase)
+
+## Testing
+
+- [supabase-test-helpers](https://database.dev/basejump/supabase_test_helpers)
+- [supabase-test](https://www.npmjs.com/package/supabase-test)
+- [supawright](https://github.com/isaacharrisholt/supawright)
