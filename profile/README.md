@@ -1,6 +1,6 @@
 # Supabase Community 👁⚡️👁
 
-Unnofficial Supabase libraries, examples, and repositories by the community for the community 💚
+Unofficial Supabase libraries, examples, and repositories by the community for the community 💚
 
 ## Client Libraries
 
