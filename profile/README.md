@@ -96,7 +96,7 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase-community/auth-go" target="_blank" rel="noopener noreferrer">auth-go</a></td>
     <td>-</td>
     <td><a href="https://github.com/supabase-community/storage-go" target="_blank" rel="noopener noreferrer">storage-go</a></td>
-    <td><a href="https://github.com/supabase-community/functions-go" target="_blank" rel="noopener noreferrer">functions-go</a</td>
+    <td><a href="https://github.com/supabase-community/functions-go" target="_blank" rel="noopener noreferrer">functions-go</a></td>
   </tr>
   <tr>
     <td>Elixir</td>
@@ -147,7 +147,7 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td>Rust</td>
     <td>-</td>
     <td><a href="https://github.com/supabase-community/postgrest-rs" target="_blank" rel="noopener noreferrer">postgrest-rs</a></td>
-    <td><a href=https://github.com/supabase-community/supabase-auth-rs target="_blank" rel="noopener noreferrer">auth-rs</a></td>
+    <td><a href="https://github.com/supabase-community/supabase-auth-rs" target="_blank" rel="noopener noreferrer">auth-rs</a></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
