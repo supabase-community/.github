@@ -91,10 +91,10 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
   </tr>
   <tr>
     <td>Go</td>
-    <td>-</td>
+    <td><a href="https://github.com/supabase-community/supabase-go" target="_blank" rel="noopener noreferrer">supabase-go</a></td>
     <td><a href="https://github.com/supabase-community/postgrest-go" target="_blank" rel="noopener noreferrer">postgrest-go</a></td>
     <td><a href="https://github.com/supabase-community/auth-go" target="_blank" rel="noopener noreferrer">auth-go</a></td>
-    <td>-</td>
+    <td><a href="https://github.com/supabase-community/realtime-go" target="_blank" rel="noopener noreferrer">realtime-go</a></td>
     <td><a href="https://github.com/supabase-community/storage-go" target="_blank" rel="noopener noreferrer">storage-go</a></td>
     <td><a href="https://github.com/supabase-community/functions-go" target="_blank" rel="noopener noreferrer">functions-go</a</td>
   </tr>
