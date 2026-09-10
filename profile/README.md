@@ -70,8 +70,7 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase/storage-py" target="_blank" rel="noopener noreferrer">storage-py</a></td>
     <td><a href="https://github.com/supabase/functions-py" target="_blank" rel="noopener noreferrer">functions-py</a></td>
   </tr>
-  <th colspan="7">💚 Community 💚</th>
-  <tr>
+    <tr>
     <td>C#</td>
     <td><a href="https://github.com/supabase-community/supabase-csharp" target="_blank" rel="noopener noreferrer">supabase-csharp</a></td>
     <td><a href="https://github.com/supabase-community/supabase-csharp/tree/master/packages/Postgrest" target="_blank" rel="noopener noreferrer">postgrest-csharp</a></td>
@@ -80,6 +79,7 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase-community/supabase-csharp/tree/master/packages/Storage" target="_blank" rel="noopener noreferrer">storage-csharp</a></td>
     <td><a href="https://github.com/supabase-community/supabase-csharp/tree/master/packages/Functions" target="_blank" rel="noopener noreferrer">functions-csharp</a></td>
   </tr>
+  <th colspan="7">💚 Community 💚</th>
   <tr>
     <td>F#</td>
     <td><a href="https://github.com/supabase-community/supabase-fsharp" target="_blank" rel="noopener noreferrer">supabase-fsharp</a></td>
